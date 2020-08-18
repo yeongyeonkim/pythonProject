@@ -1,9 +1,10 @@
 """
-지도 학습
+지도 학습(Supervied Learning)
 - 우리가 알고리즘에게 데이터 집합을 주는데, 각 데이터에 '정답'이 포함되어 있는 것.
-회귀 문제(regression problem)
+<지도 학습의 종류>
+1. 회귀 문제(regression problem)
 - 연속된 값을 가진 결과를 예측하려 한다.
-분류 문제(classification problem)
+2. 분류 문제(classification problem)
 - 0 또는 1, 음성 또는 양성과 같이 불연속적인 결과값을 예측하려 한다.
 
 [첫번째 문제]
